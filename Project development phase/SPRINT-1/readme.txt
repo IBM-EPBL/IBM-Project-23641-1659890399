@@ -7,7 +7,7 @@ TEAM LEADER:Santhosh kumar M
 TEAM MEMBERS:Santhosh kumar M,Pavitran N,Paresh kumar G,Sakthirathinavel K
 
 
-SPRINT -1,pares
+SPRINT -1
 
 *. Created an UI and local database to store the information of recruiter
 
